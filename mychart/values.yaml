@@ -5,10 +5,10 @@
 replicaCount: 1
 
 image:
-  repository: vishal1992/jenkin:helm
+  repository: vishal1992/jenkin
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+  tag: "helm"
 
 imagePullSecrets: []
 nameOverride: ""
