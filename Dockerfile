@@ -1,1 +1,1 @@
-FROM adhig93/tomcat-conf
+FROM jenkins/jenkins
