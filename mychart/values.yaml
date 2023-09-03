@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: vishal1992/jenkin
   pullPolicy: IfNotPresent
-  tag: "helm"
+  tag: "helmNew"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
